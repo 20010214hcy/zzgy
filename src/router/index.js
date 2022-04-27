@@ -42,6 +42,11 @@ const routes = [
     path: '/contact',
     name:'contact',
     component: ()=>import('../views/ContactView')
+  },
+  {
+    path: '/group',
+    name:'group',
+    component: ()=>import('../views/GroupView')
   }
 ]
 

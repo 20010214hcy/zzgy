@@ -18,7 +18,7 @@
           <el-submenu index="/brief">
             <template slot="title">关于耕耘</template>
             <el-menu-item index="/brief">公司简介</el-menu-item>
-            <el-menu-item >集团资质</el-menu-item>
+            <el-menu-item index="/group">集团资质</el-menu-item>
             <el-menu-item index="/aptitude">资质证书</el-menu-item>
           </el-submenu>
           <el-menu-item index="/product">产品中心</el-menu-item>
